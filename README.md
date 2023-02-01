@@ -18,15 +18,15 @@
 https://docs.servicenow.com/en-US/bundle/tokyo-it-asset-management/page/product/hardware-asset-management/concept/hardware-normalization.html
 
 ## Software Normalization
-https://docs.servicenow.com/en-US/bundle/tokyo-it-asset-management/page/product/software-asset-management2/concept/c_SAMDiscovery.html 
+* https://docs.servicenow.com/en-US/bundle/tokyo-it-asset-management/page/product/software-asset-management2/concept/c_SAMDiscovery.html 
 
-https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0859819
+* https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0859819
 
 # Discovery
-https://docs.servicenow.com/en-US/bundle/tokyo-it-operations-management/page/product/discovery/reference/r-discovery.html
+* https://docs.servicenow.com/en-US/bundle/tokyo-it-operations-management/page/product/discovery/reference/r-discovery.html
 
 ## Horizontal Discovery
-https://docs.servicenow.com/en-US/bundle/tokyo-it-operations-management/page/product/discovery/concept/c-UsingPatternsForHorizontalDiscovery.html
+* https://docs.servicenow.com/en-US/bundle/tokyo-it-operations-management/page/product/discovery/concept/c-UsingPatternsForHorizontalDiscovery.html
 
 ## Top-Down Discovery
-https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/configuration-management/task/populate-app-service-top-down.html
+* https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/configuration-management/task/populate-app-service-top-down.html
