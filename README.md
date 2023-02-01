@@ -31,6 +31,10 @@
 ## Top-Down Discovery
 * https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/configuration-management/task/populate-app-service-top-down.html
 
+# Identification and Reconciliation Engine
+
+* https://docs.servicenow.com/bundle/tokyo-servicenow-platform/page/product/configuration-management/concept/ire.html
+
 # ETL
 ## Transform Maps
 * https://docs.servicenow.com/en-US/bundle/tokyo-platform-administration/page/script/server-scripting/concept/c_CreatingNewTransformMaps.html
