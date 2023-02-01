@@ -30,3 +30,10 @@
 
 ## Top-Down Discovery
 * https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/configuration-management/task/populate-app-service-top-down.html
+
+# ETL
+## Transform Maps
+* https://docs.servicenow.com/en-US/bundle/tokyo-platform-administration/page/script/server-scripting/concept/c_CreatingNewTransformMaps.html
+
+## Robust Transformers
+* https://docs.servicenow.com/en-US/bundle/tokyo-platform-administration/page/administer/import-sets/concept/robust-import-set-transformers.html
