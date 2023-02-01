@@ -15,7 +15,7 @@
 * https://docs.servicenow.com/en-US/bundle/tokyo-platform-administration/page/administer/normalization/concept/c_NormalizationOverview.html
 
 ## Hardware Normalization
-https://docs.servicenow.com/en-US/bundle/tokyo-it-asset-management/page/product/hardware-asset-management/concept/hardware-normalization.html
+* https://docs.servicenow.com/en-US/bundle/tokyo-it-asset-management/page/product/hardware-asset-management/concept/hardware-normalization.html
 
 ## Software Normalization
 * https://docs.servicenow.com/en-US/bundle/tokyo-it-asset-management/page/product/software-asset-management2/concept/c_SAMDiscovery.html 
