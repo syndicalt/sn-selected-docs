@@ -1,4 +1,4 @@
-# REST API Documentation
+# REST API
 * https://docs.servicenow.com/en-US/bundle/tokyo-application-development/page/build/applications/concept/api-rest.html
 
 * https://developer.servicenow.com/dev.do#!/reference/api/sandiego/rest/
